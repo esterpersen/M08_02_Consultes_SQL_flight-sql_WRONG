@@ -1,0 +1,1 @@
+# exercici_queries_SQL
