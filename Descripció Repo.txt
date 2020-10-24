@@ -1,0 +1,3 @@
+Aquest repositori conté l'exercici 2 del mòdul 2: "Exercici Queries SQL"
+
+Instrucció: Enviar la URL al repositori que conté la solució per Slack als mentors. Crear un fitxer txt amb totes les consultes sql.
